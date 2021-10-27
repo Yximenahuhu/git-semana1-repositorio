@@ -1,6 +1,3 @@
 crear archivo 1
 
 se agregan datos al archivo 1
-
-aaa
-aa
